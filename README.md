@@ -1,2 +1,1 @@
-# RockPaperScissor
-A simple RPS game using HTML CSS and JS.Link : rockpaperscissor.pratimeshtiwari.repl.co
+A straightforward Rock-Paper-Scissors game implemented using HTML, CSS, and JavaScript. You can access the game at the following link: rockpaperscissor.pratimeshtiwari.repl.co
